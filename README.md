@@ -64,7 +64,7 @@ UVScan (URL Verification Scan) is a tool to Verify & Validate URL structure and 
                 
                 java -classpath bin/;Jars/* uvscan.Start username Photoshop ps_main Sample_Data/locales.txt "" Sample_Data/Photoshop_x.x.csv
                 
-6. Check the results in the <results_directory>/UVSCAN/Results/FinalReportVsUrl.xlsx. Read the [Analyzing-UVSCAN-Result](uv-test/Analyzing-UVSCAN-Result.txt) for more information.
+6. Check the results in the <results_directory>/UVSCAN/Results/FinalReportVsUrl.xlsx. Read the [Analyzing-UVSCAN-Result](Analyzing-UVSCAN-Result.txt) for more information.
 
 
 ### Contributing
